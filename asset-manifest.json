@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eastern-Foam-Products-React/static/css/main.455377fa.css",
+    "main.js": "/Eastern-Foam-Products-React/static/js/main.6a5386d5.js",
+    "index.html": "/Eastern-Foam-Products-React/index.html",
+    "main.455377fa.css.map": "/Eastern-Foam-Products-React/static/css/main.455377fa.css.map",
+    "main.6a5386d5.js.map": "/Eastern-Foam-Products-React/static/js/main.6a5386d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455377fa.css",
+    "static/js/main.6a5386d5.js"
+  ]
+}
