@@ -1,0 +1,19 @@
+.hero-section-hero-section {
+  width: 100%;
+  height: 157px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("https://images.unsplash.com/photo-1597338770339-9860acd8406e?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDcxfHxzY3JhcHxlbnwwfHx8fDE3MTA3NjQxMDd8MA&ixlib=rb-4.0.3&w=1500");
+}
+.hero-section-text {
+  color: var(--dl-color-scheme-darkblue);
+  width: 455px;
+  height: 92px;
+  align-self: flex-start;
+  text-align: center;
+  padding-top: var(--dl-space-space-fourunits);
+  text-transform: uppercase;
+}

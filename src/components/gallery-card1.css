@@ -1,0 +1,60 @@
+.gallery-card1-gallery-card {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.gallery-card1-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.gallery-card1-text {
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-halfunit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.gallery-card1-text1 {
+  color: #595959;
+  align-self: flex-start;
+}
+.gallery-card1-root-class-name {
+  width: var(--dl-size-size-xxlarge);
+  height: 400px;
+}
+.gallery-card1-root-class-name1 {
+  width: var(--dl-size-size-xxlarge);
+  height: 400px;
+}
+.gallery-card1-root-class-name3 {
+  width: var(--dl-size-size-xxlarge);
+  height: 400px;
+}
+.gallery-card1-root-class-name4 {
+  width: var(--dl-size-size-xxlarge);
+  height: 400px;
+}
+.gallery-card1-root-class-name5 {
+  width: var(--dl-size-size-xxlarge);
+  height: 400px;
+}
+.gallery-card1-root-class-name6 {
+  width: var(--dl-size-size-xxlarge);
+  height: 400px;
+}
+.gallery-card1-root-class-name7 {
+  width: var(--dl-size-size-xxlarge);
+  height: 400px;
+}
+@media(max-width: 767px) {
+  .gallery-card1-gallery-card {
+    flex-direction: column;
+  }
+}
+@media(max-width: 479px) {
+  .gallery-card1-image {
+    height: 10rem;
+  }
+}

@@ -1,0 +1,374 @@
+.vertical-cutting-machine-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.vertical-cutting-machine-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.vertical-cutting-machine-container2 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.vertical-cutting-machine-main-page {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.vertical-cutting-machine-hero-section {
+  width: 100%;
+  height: 157px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("https://images.unsplash.com/photo-1515588562968-3d1a385e4e4f?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDU5fHxtYWNoaW5lfGVufDB8fHx8MTcxMDkxNzc0OHww&ixlib=rb-4.0.3&w=1500");
+}
+.vertical-cutting-machine-text {
+  color: var(--dl-color-scheme-white);
+  width: 600px;
+  height: 92px;
+  align-self: flex-start;
+  text-align: center;
+  padding-top: var(--dl-space-space-fourunits);
+  text-transform: uppercase;
+}
+.vertical-cutting-machine-container3 {
+  width: 100%;
+  height: 766px;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  background-color: var(--dl-color-scheme-lightbrown);
+}
+.vertical-cutting-machine-image {
+  width: 519px;
+  height: 643px;
+  object-fit: cover;
+}
+.vertical-cutting-machine-container4 {
+  flex: 0 0 auto;
+  width: 772px;
+  height: 770px;
+  display: flex;
+  padding-top: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.vertical-cutting-machine-text01 {
+  width: 600px;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+}
+.vertical-cutting-machine-container5 {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.vertical-cutting-machine-text02 {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.vertical-cutting-machine-container6 {
+  width: 500px;
+  height: 500px;
+}
+.vertical-cutting-machine-container7 {
+  display: contents;
+}
+.vertical-cutting-machine-ul {
+  display: none;
+  margin-top: var(--dl-space-space-threeunits);
+  padding-left: var(--dl-space-space-threeunits);
+}
+.vertical-cutting-machine-li {
+  width: 675px;
+  background-color: #D9D9D9;
+}
+.vertical-cutting-machine-text03 {
+  font-style: normal;
+  font-weight: 700;
+  line-height: 2;
+}
+.vertical-cutting-machine-li1 {
+  line-height: 2;
+}
+.vertical-cutting-machine-text04 {
+  font-weight: 800;
+}
+.vertical-cutting-machine-li2 {
+  width: 675px;
+  line-height: 2;
+  background-color: #D9D9D9;
+}
+.vertical-cutting-machine-text05 {
+  font-weight: 700;
+}
+.vertical-cutting-machine-li3 {
+  line-height: 2;
+}
+.vertical-cutting-machine-text06 {
+  font-weight: 700;
+}
+.vertical-cutting-machine-container8 {
+  width: 100%;
+  height: 1020px;
+  display: flex;
+  margin-top: var(--dl-space-space-halfunit);
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-scheme-lightbrown);
+}
+.vertical-cutting-machine-text07 {
+  width: 1200px;
+  height: 44px;
+  font-size: 3em;
+  font-style: normal;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: left;
+  font-weight: 800;
+}
+.vertical-cutting-machine-text08 {
+  margin-top: var(--dl-space-space-threeunits);
+}
+.vertical-cutting-machine-text09 {
+  font-style: normal;
+  margin-top: var(--dl-space-space-twounits);
+  font-weight: 400;
+  padding-right: var(--dl-space-space-fourunits);
+}
+.vertical-cutting-machine-text10 {
+  margin-top: var(--dl-space-space-threeunits);
+}
+.vertical-cutting-machine-text11 {
+  margin-top: var(--dl-space-space-twounits);
+  font-weight: 600;
+  padding-right: var(--dl-space-space-fiveunits);
+}
+.vertical-cutting-machine-text13 {
+  font-weight: 400;
+}
+.vertical-cutting-machine-text14 {
+  font-weight: 400;
+}
+.vertical-cutting-machine-text15 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text16 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text17 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text18 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text19 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text20 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text21 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text22 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text23 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text24 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text25 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text26 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text27 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text28 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text29 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text30 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text31 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text32 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-text33 {
+  color: var(--dl-color-scheme-darkblue);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.vertical-cutting-machine-features {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+}
+.vertical-cutting-machine-text34 {
+  width: 696px;
+  font-size: 3rem;
+  align-self: center;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.vertical-cutting-machine-separator {
+  width: 100px;
+  height: 2px;
+  align-self: center;
+  background-color: #595959;
+}
+.vertical-cutting-machine-image1 {
+  width: 1073px;
+  height: 543px;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+@media(max-width: 991px) {
+  .vertical-cutting-machine-features {
+    align-items: center;
+  }
+}
+@media(max-width: 767px) {
+  .vertical-cutting-machine-features {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .vertical-cutting-machine-text34 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .vertical-cutting-machine-container3 {
+    height: 1325px;
+    margin-top: var(--dl-space-space-unit);
+    flex-direction: column;
+  }
+  .vertical-cutting-machine-container4 {
+    width: 479px;
+    flex-direction: column;
+  }
+  .vertical-cutting-machine-text01 {
+    width: 450px;
+    margin-top: var(--dl-space-space-unit);
+  }
+  .vertical-cutting-machine-container5 {
+    width: 429px;
+  }
+  .vertical-cutting-machine-container6 {
+    width: 479px;
+  }
+  .vertical-cutting-machine-text06 {
+    font-weight: 700;
+  }
+  .vertical-cutting-machine-container8 {
+    height: 2596px;
+  }
+  .vertical-cutting-machine-features {
+    width: 443px;
+    height: 816px;
+    margin-top: var(--dl-space-space-fiveunits);
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .vertical-cutting-machine-text34 {
+    width: 479px;
+    height: 246px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+}
